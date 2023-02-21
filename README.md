@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndyGrld
-- 👀 I’m interested in Computing and programming
+- 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Computer Science and Engineering in University
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me ansongandy04@gmail.com
