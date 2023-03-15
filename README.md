@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndyGrld
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Computer Science and Engineering in University
+- 🌱 I’m currently learning deep learning with pytorch
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me ansongandy04@gmail.com
 
