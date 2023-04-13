@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AndyGrld
+- 👋 Hi, I’m Andy Gerald
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning deep learning with pytorch
 - 💞️ I’m looking to collaborate on various projects
