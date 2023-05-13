@@ -11,7 +11,6 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=AndyGrld&style=flat-square&color=blue" alt=""/>
 <h1>
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -35,7 +34,7 @@ I am a Backend and Machine Learning (ML) <img src="https://media.giphy.com/media
 
 I am always eager to learn and collaborate on exciting projects that involve backend development and ML. Feel free to reach out to me to discuss any opportunities or share ideas. Let's build innovative solutions together!
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andy-ansong-b661b8232)
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-Email%20Me-red?logo=gmail)](mailto:ansongandy04@gmail.com)
 
 ---
 
